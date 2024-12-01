@@ -20,6 +20,5 @@
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=def119&show_icons=true&locale=en" alt="def119" />
-<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=def119&" alt="def119" /></p>
