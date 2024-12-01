@@ -16,6 +16,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=def119&show_icons=true&locale=en&layout=compact" alt="def119" /></p>
+
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=def119&show_icons=true&locale=en" alt="def119" /></p>
