@@ -3,6 +3,7 @@
 
 # Current Projects 
 - 🔭 I’m currently working on [SchoolWay web](https://github.com/duleepa-a/schoolway-frontend) & [SchoolWay mobile](https://github.com/AyangaWethmini/schoolway-mobile)
+
 Previously worked on - [PawCentral](https://github.com/Sameemadhu16/PawCentral)
 <hr>
 
